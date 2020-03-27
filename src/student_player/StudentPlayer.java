@@ -15,7 +15,7 @@ public class StudentPlayer extends SaboteurPlayer {
      * return student id
      */
     public StudentPlayer() {
-        super("xxxxxxxxx");
+        super("260632588");
     }
 
     /**
