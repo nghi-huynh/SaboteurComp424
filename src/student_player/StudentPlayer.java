@@ -12,6 +12,7 @@ public class StudentPlayer extends SaboteurPlayer {
      * You must modify this constructor to return your student number. This is
      * important, because this is what the code that runs the competition uses to
      * associate you with your agent. The constructor should do nothing else.
+     * return student id
      */
     public StudentPlayer() {
         super("xxxxxxxxx");
